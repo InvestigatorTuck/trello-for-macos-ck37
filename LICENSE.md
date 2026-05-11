@@ -1,4 +1,4 @@
-
+Enhance Trello for macOS with Trello for macOS secure Extension - OCR scanning and tags, the #1 extension. Includes OCR scanning and tags for a smoother experience.
 
 
 
